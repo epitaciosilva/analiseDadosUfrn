@@ -17,7 +17,7 @@ A realização desta pesquisa tem como principal objetivo saber a situação das
   Os dados utilizados na pesquisa foram retirados do site [Dados abertos da ufrn](http://dados.ufrn.br/).
 
 ## Youtube
-  Segue o link da apresentação do projeto: https://youtu.be/O4TRBM6cWDw
+  Segue o link da apresentação do projeto: https://www.youtube.com/watch?v=299tL-ECppo&feature=youtu.be
 
 ## Desenvolvedores
   * Carlos Eduardo Azevedo dos Santos - carloseduardofox8@gmail.com 
